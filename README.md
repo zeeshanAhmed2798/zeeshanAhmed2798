@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤖 Agentic AI Engineer specializing in LangChain, LangGraph & Multi-Agent Systems<br>📊 Data Analyst with expertise in Python, SQL, Power BI & Advanced Analytics<br>💼 AI Engineer @ VoxKit - Building production voice agents serving 5,000+ monthly interactions<br>⭐ Freelance Data Scientist @ Fiverr (5.0★ Rating | 100% Response Rate)<br>🎓 Computer Science @ Superior University (CGPA: 3.9/4.0)<br>🏆 Kaggle Notebooks Expert | Google Data Analytics Certified<br>🚀 Building intelligent agent systems, RAG applications & data-driven solutions<br>
+🤖 Agentic AI Engineer specializing in LangChain, LangGraph & Multi-Agent Systems<br>📊 Data Analyst with expertise in Python, SQL, Power BI & Advanced Analytics<br>💼 AI Engineer @ VoxKit - Building production voice agents serving 5,000+ monthly interactions<br>⭐ Freelance Data Scientist @ Fiverr (5.0★ Rating | 100% Response Rate)<br>🎓 Computer Science @ Superior University <br>🏆 Kaggle Notebooks Expert | Google Data Analytics Certified<br>🚀 Building intelligent agent systems, RAG applications & data-driven solutions<br>
 
 
 ## 🌐 Socials:
