@@ -34,7 +34,7 @@
 # 🚀 Featured Projects:
 
 ### 🤖 Agentic AI & LLM Applications
-- **VoxKit Voice Agents** - Production bilingual AI agents with LangChain/LangGraph orchestration serving 5,000+ monthly calls
+- **VoxKit Voice Agents** - Production bilingual AI agents with LangChain/LangGraph orchestration
 - **YouTube RAG Chatbot** - Multi-agent system with LangChain, Pinecone vector search & real-time transcript analysis
 - **Cold Email Generator** - LangChain-powered job application automation
 
