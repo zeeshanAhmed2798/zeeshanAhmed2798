@@ -45,7 +45,7 @@
 
 ### 🔍 Web Scraping & Automation
 - **WhatsApp Chat Analyzer** - Comprehensive messaging analytics with AI-powered insights
-- **SMS Spam Classifier** - 100% precision NLP model with Streamlit deployment.
+- **SMS Spam Classifier** - 100% precision NLP model with Streamlit deployment
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=zeeshanAhmed2798&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
