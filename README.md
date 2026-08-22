@@ -123,21 +123,10 @@ Explainable AI module, shipped as a multi-page Streamlit app.
 
 ---
 
-# 📊 GitHub Stats
-
+# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=zeeshanAhmed2798&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=zeeshanAhmed2798&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=zeeshanAhmed2798&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zeeshanAhmed2798&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-<!--
-  NOTE on the line above: the streak-stats URL now points at streak-stats.demolab.com instead of the
-  dead github-readme-streak-stats.herokuapp.com domain — the old one is very likely rendering broken
-  on the live profile right now. See RECOMMENDATIONS.md Priority 0 item 2.
-
-  Optional further trim (2026 best-practice research suggests at most 1–2 stat widgets read as signal;
-  trophy cases and visit counters mostly read as filler to recruiters). Kept below per instruction to
-  preserve what's already there — cut the Trophies block and the visit counter first if going leaner.
--->
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=zeeshanAhmed2798&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
