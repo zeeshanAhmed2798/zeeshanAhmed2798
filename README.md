@@ -1,10 +1,10 @@
 <!--
   DRAFT profile README for github.com/zeeshanAhmed2798/zeeshanAhmed2798
-  This is a complete, ready-to-paste replacement for the current Readme.md.
+  This is a complete, ready-to-paste replacement for the current Readme.md
   Search this file for "TODO" / HTML comments before publishing — a few items
   need Zeeshan's confirmation (employer name, portfolio URL, a couple of live
-  demo links) and are deliberately left as placeholders rather than guessed.
-  See RECOMMENDATIONS.md for the reasoning behind each change.
+  demo links) and are deliberately left as placeholders rather than guessed
+  See RECOMMENDATIONS.md for the reasoning behind each change
 -->
 
 # 💫 About Me
