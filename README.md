@@ -18,7 +18,7 @@
 ⭐ ML/Data Science Freelancer @ Fiverr — 100% Response Rate <!-- TODO: confirm current star rating (sources show 4.7 live vs 5.0 elsewhere) before adding a number back in -->
 🎓 BS Computer Science @ Superior University, Lahore (2022–2026)
 🏆 Kaggle Notebooks Expert | Google Data Analytics Certified
-🚀 Currently building: Urdu-first voice AI for healthcare, multi-tenant LiveKit ordering pipelines, and RAG/agentic systems
+🚀 Currently building: Urdu-first voice AI for healthcare, multi-tenant LiveKit ordering pipelines, and RAG/agentic system
 
 ## 🧭 My Journey
 
