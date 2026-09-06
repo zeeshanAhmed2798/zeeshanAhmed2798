@@ -11,7 +11,7 @@
 
 🤖 AI/ML Engineer building production **agentic AI and voice AI systems**
 📊 Data Scientist — Python, SQL, Power BI & applied ML/DL
-<!-- TODO: confirm current employer name/title before publishing — VoxKit and SdevaX both
+<!-- TODO: confirm current employer name/title before publishing — VoxKit and SdevaX 
      appear across different live sources (resume, portfolio, GitHub, LinkedIn). Replace the
      line below with the confirmed name once you've reconciled it everywhere else. -->
 💼 AI Engineer in production voice/GenAI systems — building real-time voice agents, RAG pipelines & multi-tenant AI platforms
