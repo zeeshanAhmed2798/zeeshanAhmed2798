@@ -4,7 +4,7 @@
   Search this file for "TODO" / HTML comments before publishing — a few items.
   need Zeeshan's confirmation (employer name, portfolio URL, a couple of live
   demo links) and are deliberately left as placeholders rather than guessed
-  See RECOMMENDATIONS.md for the reasoning behind each change
+  See RECOMMENDATIONS.md for the reasoning.
 -->
 
 # 💫 About Me
