@@ -183,7 +183,7 @@ shipped as a multi-page Streamlit app.
 - 🎮 My first real project was a chess engine in C++ — semester two
 - 🗣️ I care a lot about **Urdu-first** AI; most voice systems still treat it as an afterthought
 - 🏏 I built a PSL cricket analytics API mostly because the data didn't exist publicly yet
-- 📈 I think an ML project isn't finished until someone who isn't me can actually use it
+- 📈 I think an ML project isn't finished until someone who isn't me can actually use.
 - 🌱 Currently going deeper on: multi-agent orchestration, realtime audio pipelines, and MCP
 
 ---
