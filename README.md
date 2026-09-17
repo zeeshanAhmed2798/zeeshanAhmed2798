@@ -1,6 +1,6 @@
 <!--
   Profile README for github.com/zeeshanAhmed2798
-  Search for "TODO" before publishing — a few items still need your confirmation
+  Search for "TODO" before publishing a few items still need your confirmation
   (employer name, portfolio URL, a couple of demo links) and are left as
   placeholders rather than guessed.
 -->
