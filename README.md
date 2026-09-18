@@ -5,7 +5,7 @@
   placeholders rather than guessed.
 -->
 
-<h1 align="center">Hi, I'm Zeeshan Ahmad 👋</h1>
+<h1 align="center">Hi, I am Zeeshan Ahmad 👋</h1>
 <h3 align="center">AI/ML Engineer · Data Scientist · Builder of Voice & Agentic AI Systems</h3>
 
 <p align="center">
