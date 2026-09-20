@@ -9,8 +9,8 @@
 <h3 align="center">AI/ML Engineer · Data Scientist · Builder of Voice & Agentic AI Systems</h3>
 
 <p align="center">
-I build production agentic AI and voice AI systems — realtime voice agents, RAG pipelines,
-and multi-tenant AI platforms — on top of a data science foundation.
+I build production agentic AI and voice AI systems realtime voice agents, RAG pipelines,
+and multi-tenant AI platforms on top of a data science foundation.
 </p>
 
 <p align="center">
@@ -30,7 +30,7 @@ and multi-tenant AI platforms — on top of a data science foundation.
 ## 💫 About Me
 
 - 🤖 **AI/ML Engineer** building production **agentic AI and voice AI systems**
-- 📊 **Data Scientist** — Python, SQL, Power BI, and applied ML/DL
+- 📊 **Data Scientist** Python, SQL, Power BI, and applied ML/DL
 <!-- TODO: confirm current employer name/title before publishing — VoxKit and SdevaX appear
      across different live sources (resume, portfolio, GitHub, LinkedIn). Replace the line
      below with the confirmed name once you've reconciled it everywhere else. -->
@@ -61,7 +61,7 @@ full arc than hide where I started.
 ### 🏥 VoxCare — Urdu-First Voice AI Agent for Healthcare `Flagship`
 
 A realtime, Urdu-first voice AI agent that lets patients book, reschedule, and cancel hospital appointments
-over a live phone call — multi-tenant SaaS architecture with RBAC, call logging, and an analytics dashboard.
+over a live phone call multi-tenant SaaS architecture with RBAC, call logging, and an analytics dashboard.
 Final Year Project at Superior University, supervised by Dr. Jawad Ahmad, built with a 2-person team.
 
 **Tech:** Python · FastAPI · VAPI · GPT-4o (tool calling) · LangChain · LangGraph · Redis · Twilio · PostgreSQL
