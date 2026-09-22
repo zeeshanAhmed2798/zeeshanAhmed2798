@@ -58,7 +58,7 @@ full arc than hide where I started.
 
 ## 🚀 Featured Projects
 
-### 🏥 VoxCare — Urdu-First Voice AI Agent for Healthcare `Flagship`
+### 🏥 VoxCare  Urdu-First Voice AI Agent for Healthcare `Flagship`
 
 A realtime, Urdu-first voice AI agent that lets patients book, reschedule, and cancel hospital appointments
 over a live phone call multi-tenant SaaS architecture with RBAC, call logging, and an analytics dashboard.
