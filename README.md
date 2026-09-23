@@ -14,7 +14,7 @@ and multi-tenant AI platforms on top of a data science foundation.
 </p>
 
 <p align="center">
-<!-- TODO: replace the Portfolio href the old README pointed it at this GitHub profile
+<!-- TODO: replace the Portfolio href the old REDME pointed it at this GitHub profile
      instead of the actual portfolio site. Grab the live deployment URL and swap it in. -->
 <a href="https://REPLACE-WITH-YOUR-PORTFOLIO-URL.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 <a href="https://linkedin.com/in/zeeshan--ahmad"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
