@@ -195,7 +195,7 @@ and I'm open to full-time and freelance work.
 
 📩 [LinkedIn](https://linkedin.com/in/zeeshan--ahmad) · 📊 [Kaggle](https://kaggle.com/zeeshanahmad124586) · 💼 [Fiverr](https://fiverr.com/ds_ai_byzeeshan) · ✉️ [zeeshan.ahmad124586@gmail.com](mailto:zeeshan.ahmad124586@gmail.com)
 
-<p align="center"><i>From a bouncing-ball game to production voice agents — still building.</i></p>
+<p align="center"><i>From a bouncing-ball game to production voice agents still building.</i></p>
 
 <p align="center">
 <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=zeeshanAhmed2798&icon=2&color=6" /></a>
