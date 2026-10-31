@@ -34,7 +34,7 @@ and multi-tenant AI platforms on top of a data science foundation.
 <!-- TODO: confirm current employer name/title before publishing — VoxKit and SdevaX appear
      across different live sources (resume, portfolio, GitHub, LinkedIn). Replace the line
      below with the confirmed name once you've reconciled it everywhere else. -->
-- 💼 AI Engineer working on production voice/GenAI systems — realtime voice agents, RAG pipelines, multi-tenant AI platforms
+- 💼 AI Engineer working on production voice/GenAI systems — realtime voice agents, RAG pipelines, multi-tenant platforms
 - ⭐ ML/Data Science Freelancer **@ Fiverr** 100% Response Rate <!-- TODO: confirm current star rating (sources show 4.7 live vs 5.0 elsewhere) before adding a number back in -->
 - 🎓 **BS Computer Science** @ Superior University, Lahore (2022–2026)
 - 🏆 **Kaggle Notebooks Expert** · Google Data Analytics Certified
