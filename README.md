@@ -123,7 +123,7 @@ shipped as a multi-page Streamlit app.
 **Voice AI & Realtime**
 
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![LiveKit](https://img.shields.io/badge/LiveKit-1F1F1F?style=for-the-badge&logoColor=white) ![VAPI](https://img.shields.io/badge/VAPI-4B3BFF?style=for-the-badge&logoColor=white) ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logoColor=white)
-<!-- LiveKit and VAPI have no simple-icons logo support as of writing — kept as plain colored badges. -->
+<!-- LiveKit and VAPI have no simple-icons logo support as of writing — kept as plain badges. -->
 
 **Languages**
 
